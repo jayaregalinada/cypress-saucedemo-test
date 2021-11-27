@@ -12,3 +12,6 @@ npx cypress open
 ```
 
 For more ways to install cypress you can go to [https://cypress.io](https://docs.cypress.io/guides/getting-started/installing-cypress)
+
+* * *
+###### Created and developed by [Jay Are Galinada](https://jayaregalinada.github.io/)
